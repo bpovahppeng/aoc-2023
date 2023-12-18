@@ -118,6 +118,8 @@ numbers = number_bubbles %>%
 
 plot(number_bubbles)
 
+plot(numbers['number'])
+
 # Part 1----
 
 #intersect the numbers with the special buffer to get the numbers that are adjacent to special characters
